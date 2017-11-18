@@ -1,0 +1,2 @@
+# rocoin
+mineable cryptocurrency
